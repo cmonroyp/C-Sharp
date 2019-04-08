@@ -1,0 +1,7 @@
+E:\Cursos\C-Sharp\TipoValorTipoReferencia\TipoValorTipoReferencia\bin\Debug\TipoValorTipoReferencia.exe.config
+E:\Cursos\C-Sharp\TipoValorTipoReferencia\TipoValorTipoReferencia\bin\Debug\TipoValorTipoReferencia.exe
+E:\Cursos\C-Sharp\TipoValorTipoReferencia\TipoValorTipoReferencia\bin\Debug\TipoValorTipoReferencia.pdb
+E:\Cursos\C-Sharp\TipoValorTipoReferencia\TipoValorTipoReferencia\obj\Debug\TipoValorTipoReferencia.csprojAssemblyReference.cache
+E:\Cursos\C-Sharp\TipoValorTipoReferencia\TipoValorTipoReferencia\obj\Debug\TipoValorTipoReferencia.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\TipoValorTipoReferencia\TipoValorTipoReferencia\obj\Debug\TipoValorTipoReferencia.exe
+E:\Cursos\C-Sharp\TipoValorTipoReferencia\TipoValorTipoReferencia\obj\Debug\TipoValorTipoReferencia.pdb

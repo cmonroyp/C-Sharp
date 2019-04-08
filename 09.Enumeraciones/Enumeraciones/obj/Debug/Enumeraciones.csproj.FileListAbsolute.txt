@@ -1,0 +1,7 @@
+E:\Cursos\C-Sharp\Enumeraciones\Enumeraciones\bin\Debug\Enumeraciones.exe.config
+E:\Cursos\C-Sharp\Enumeraciones\Enumeraciones\bin\Debug\Enumeraciones.exe
+E:\Cursos\C-Sharp\Enumeraciones\Enumeraciones\bin\Debug\Enumeraciones.pdb
+E:\Cursos\C-Sharp\Enumeraciones\Enumeraciones\obj\Debug\Enumeraciones.csprojAssemblyReference.cache
+E:\Cursos\C-Sharp\Enumeraciones\Enumeraciones\obj\Debug\Enumeraciones.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\Enumeraciones\Enumeraciones\obj\Debug\Enumeraciones.exe
+E:\Cursos\C-Sharp\Enumeraciones\Enumeraciones\obj\Debug\Enumeraciones.pdb

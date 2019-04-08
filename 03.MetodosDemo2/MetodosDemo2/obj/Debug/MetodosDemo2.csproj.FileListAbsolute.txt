@@ -1,0 +1,6 @@
+E:\Cursos\C-Sharp\MetodosDemo2\MetodosDemo2\bin\Debug\MetodosDemo2.exe.config
+E:\Cursos\C-Sharp\MetodosDemo2\MetodosDemo2\bin\Debug\MetodosDemo2.exe
+E:\Cursos\C-Sharp\MetodosDemo2\MetodosDemo2\bin\Debug\MetodosDemo2.pdb
+E:\Cursos\C-Sharp\MetodosDemo2\MetodosDemo2\obj\Debug\MetodosDemo2.csprojResolveAssemblyReference.cache
+E:\Cursos\C-Sharp\MetodosDemo2\MetodosDemo2\obj\Debug\MetodosDemo2.exe
+E:\Cursos\C-Sharp\MetodosDemo2\MetodosDemo2\obj\Debug\MetodosDemo2.pdb

@@ -1,0 +1,6 @@
+E:\Cursos\C-Sharp\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+E:\Cursos\C-Sharp\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+E:\Cursos\C-Sharp\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+E:\Cursos\C-Sharp\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csprojResolveAssemblyReference.cache
+E:\Cursos\C-Sharp\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+E:\Cursos\C-Sharp\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb

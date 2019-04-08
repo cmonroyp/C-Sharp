@@ -1,0 +1,7 @@
+E:\Cursos\C-Sharp\ClasesDemo\ClasesDemo\bin\Debug\ClasesDemo.exe.config
+E:\Cursos\C-Sharp\ClasesDemo\ClasesDemo\bin\Debug\ClasesDemo.exe
+E:\Cursos\C-Sharp\ClasesDemo\ClasesDemo\bin\Debug\ClasesDemo.pdb
+E:\Cursos\C-Sharp\ClasesDemo\ClasesDemo\obj\Debug\ClasesDemo.csprojAssemblyReference.cache
+E:\Cursos\C-Sharp\ClasesDemo\ClasesDemo\obj\Debug\ClasesDemo.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\ClasesDemo\ClasesDemo\obj\Debug\ClasesDemo.exe
+E:\Cursos\C-Sharp\ClasesDemo\ClasesDemo\obj\Debug\ClasesDemo.pdb

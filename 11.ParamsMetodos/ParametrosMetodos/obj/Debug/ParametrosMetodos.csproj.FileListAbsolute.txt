@@ -1,0 +1,7 @@
+E:\Cursos\C-Sharp\ParametrosMetodos\ParametrosMetodos\bin\Debug\ParametrosMetodos.exe.config
+E:\Cursos\C-Sharp\ParametrosMetodos\ParametrosMetodos\bin\Debug\ParametrosMetodos.exe
+E:\Cursos\C-Sharp\ParametrosMetodos\ParametrosMetodos\bin\Debug\ParametrosMetodos.pdb
+E:\Cursos\C-Sharp\ParametrosMetodos\ParametrosMetodos\obj\Debug\ParametrosMetodos.csprojAssemblyReference.cache
+E:\Cursos\C-Sharp\ParametrosMetodos\ParametrosMetodos\obj\Debug\ParametrosMetodos.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\ParametrosMetodos\ParametrosMetodos\obj\Debug\ParametrosMetodos.exe
+E:\Cursos\C-Sharp\ParametrosMetodos\ParametrosMetodos\obj\Debug\ParametrosMetodos.pdb

@@ -1,0 +1,31 @@
+Curso C#
+
+* El metodo Main siempre debe pertenecer a una clase.
+
+Tipos de datos:
+- Variable: almacena informacion en un espacio de memoria
+- Enunciado: Comando que ejecuta una operacion ejmlo => calcular el resultado de una suma
+- Identificador: es el nombre que se utiliza para nombrar un elemento en un programa ej => variables, clases, metodos, espacio de nombre
+- palabras clave: son propias del lenguaje
+
+Metodos
+void => no retorna ningun resultado
+Caracteristicas se le llama propiedades y a los comportamientos Metodos.
+
+Tupla: estructura de datos que permite almacenar diferentes valores, de diferentes tipos que estan relacionados de algun 
+       modo y utilizando una sola variable.
+Ambito de una variable: especifica unicamente en el metodo que se vaya a utilizar, o bien a nivel global o la clase para utilizarla en otros metodos.
+Sobre carga de operadores: Reutilizar el mismo nombre del metodo, cambiando un tipo de dato diferente la segunda vez.
+
+checked: sirve para validar operaciones aritmeticas
+unchecked: No valida las operaciones
+
+Encapsulamiento: funcionalidad que se encuentra encapsulada en algun objeto, sin que necesariamente se conozca su comportamiento interno.
+Ejemplo: Un carro, por lo que uno se debe preocupar es por manejarlo, sin conocer su funcionamiento interno.
+
+Clase: es un molde con caracteristicas y funcionalidad que distingue un objeto.
+
+out: Este parametro sirve inicializar una variable desde un metodo o funcion, en caso que se no haya inicializado desde un comienzo.
+ref: Este paremtro permite modificar el valor de la variable inicial, desde un  metodo o funcion.
+int.tryparse : permite convertir numero cadena a entero.
+is as : Permite la comparacion de objetos si la variable es de un tipo especifico.

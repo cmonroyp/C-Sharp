@@ -1,0 +1,7 @@
+E:\Cursos\C-Sharp\ValidaOperaciones\ValidaOperaciones\bin\Debug\ValidaOperaciones.exe.config
+E:\Cursos\C-Sharp\ValidaOperaciones\ValidaOperaciones\bin\Debug\ValidaOperaciones.exe
+E:\Cursos\C-Sharp\ValidaOperaciones\ValidaOperaciones\bin\Debug\ValidaOperaciones.pdb
+E:\Cursos\C-Sharp\ValidaOperaciones\ValidaOperaciones\obj\Debug\ValidaOperaciones.exe
+E:\Cursos\C-Sharp\ValidaOperaciones\ValidaOperaciones\obj\Debug\ValidaOperaciones.pdb
+E:\Cursos\C-Sharp\ValidaOperaciones\ValidaOperaciones\obj\Debug\ValidaOperaciones.csprojAssemblyReference.cache
+E:\Cursos\C-Sharp\ValidaOperaciones\ValidaOperaciones\obj\Debug\ValidaOperaciones.csproj.CoreCompileInputs.cache

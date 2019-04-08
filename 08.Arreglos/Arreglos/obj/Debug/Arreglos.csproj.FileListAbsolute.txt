@@ -1,0 +1,7 @@
+E:\Cursos\C-Sharp\Arreglos\Arreglos\bin\Debug\Arreglos.exe.config
+E:\Cursos\C-Sharp\Arreglos\Arreglos\bin\Debug\Arreglos.exe
+E:\Cursos\C-Sharp\Arreglos\Arreglos\bin\Debug\Arreglos.pdb
+E:\Cursos\C-Sharp\Arreglos\Arreglos\obj\Debug\Arreglos.csprojAssemblyReference.cache
+E:\Cursos\C-Sharp\Arreglos\Arreglos\obj\Debug\Arreglos.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\Arreglos\Arreglos\obj\Debug\Arreglos.exe
+E:\Cursos\C-Sharp\Arreglos\Arreglos\obj\Debug\Arreglos.pdb

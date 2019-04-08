@@ -1,0 +1,7 @@
+E:\Cursos\C-Sharp\Estructuras\Estructuras\bin\Debug\Estructuras.exe.config
+E:\Cursos\C-Sharp\Estructuras\Estructuras\bin\Debug\Estructuras.exe
+E:\Cursos\C-Sharp\Estructuras\Estructuras\bin\Debug\Estructuras.pdb
+E:\Cursos\C-Sharp\Estructuras\Estructuras\obj\Debug\Estructuras.csprojAssemblyReference.cache
+E:\Cursos\C-Sharp\Estructuras\Estructuras\obj\Debug\Estructuras.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\Estructuras\Estructuras\obj\Debug\Estructuras.exe
+E:\Cursos\C-Sharp\Estructuras\Estructuras\obj\Debug\Estructuras.pdb
