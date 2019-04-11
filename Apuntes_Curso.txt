@@ -1,4 +1,9 @@
 Curso C#
+Subir un nuevo archivo a Github
+- git add *
+- git commit -m "comentario"
+- git push -u origin master
+
 
 * El metodo Main siempre debe pertenecer a una clase.
 
@@ -29,3 +34,5 @@ out: Este parametro sirve inicializar una variable desde un metodo o funcion, en
 ref: Este paremtro permite modificar el valor de la variable inicial, desde un  metodo o funcion.
 int.tryparse : permite convertir numero cadena a entero.
 is as : Permite la comparacion de objetos si la variable es de un tipo especifico.
+
+Herencia: Relacion que existe entre multiples clases, con propiedades que pueden ser comunes y compartir de una a otra.
