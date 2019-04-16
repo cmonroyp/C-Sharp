@@ -36,3 +36,13 @@ int.tryparse : permite convertir numero cadena a entero.
 is as : Permite la comparacion de objetos si la variable es de un tipo especifico.
 
 Herencia: Relacion que existe entre multiples clases, con propiedades que pueden ser comunes y compartir de una a otra.
+override: permite sobre escribir un metodo
+virtual: permite virtualizar un metodo para que sea sobreescrito
+new: new en un metodo me indica que puedo nombrar ese metodo igual al de la clase padre sin afectar el principal.
+
+polimorfismo: significa muchas formas, lleva acabo diferentes cosas dependiendo de su contexto.
+protected: cuando se quiere hacer publica una clase o metodo
+interfaces: me permiten trabajar metodos de una clase padre, sin modificar su metodo principal o alterarlo,debe haber un contrado entre la clase padre y las hijas,
+            y es que todas las hijas, deben contener implementados los metodo de la clase padre.
+
+sealed: me permite sellar clases o metodos, con el fin que ya no puedan ser mas heredadas, en otras clases.
