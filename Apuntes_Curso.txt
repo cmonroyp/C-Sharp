@@ -46,3 +46,6 @@ interfaces: me permiten trabajar metodos de una clase padre, sin modificar su me
             y es que todas las hijas, deben contener implementados los metodo de la clase padre.
 
 sealed: me permite sellar clases o metodos, con el fin que ya no puedan ser mas heredadas, en otras clases.
+using: controla el ciclo de vida de nuestros recursos
+propiedad: es una mezcla de un campo y un metodo, esta encapsula un unico valor en una clase
+indexador: encapsula un conjunto de valores
