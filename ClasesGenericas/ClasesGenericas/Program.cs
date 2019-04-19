@@ -16,6 +16,19 @@ namespace ClasesGenericas
             //metodo
             GenericClass<string> metodo = new GenericClass<string>("");
             metodo.HacerAlgo("Hola Mundo!.");
+
+            //GenricException
+            GenericException<Exception, string> gexcep = new GenericException<Exception, string>(new Exception(""));
+            gexcep.HacerAlgo(new Exception("Aqui esta bien"));
+
+            //Generic Interface         
+
+            Dato<string> dato = new Dato<string>();
+            IHacerAlgo<string> frase = dato;
+            frase.HacerAlgo("Hello!..");
+            Console.WriteLine(frase.GetDato());
+
+            Console.ReadLine();
         }
     }
 }
