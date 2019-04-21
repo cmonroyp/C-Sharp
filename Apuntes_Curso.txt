@@ -49,3 +49,4 @@ sealed: me permite sellar clases o metodos, con el fin que ya no puedan ser mas 
 using: controla el ciclo de vida de nuestros recursos
 propiedad: es una mezcla de un campo y un metodo, esta encapsula un unico valor en una clase
 indexador: encapsula un conjunto de valores
+delegado: es una referencia a un metodo
