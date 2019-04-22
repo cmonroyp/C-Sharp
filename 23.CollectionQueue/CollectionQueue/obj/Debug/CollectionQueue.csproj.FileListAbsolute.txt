@@ -1,0 +1,7 @@
+E:\Cursos\C-Sharp\CollectionQueue\CollectionQueue\bin\Debug\CollectionQueue.exe.config
+E:\Cursos\C-Sharp\CollectionQueue\CollectionQueue\bin\Debug\CollectionQueue.exe
+E:\Cursos\C-Sharp\CollectionQueue\CollectionQueue\bin\Debug\CollectionQueue.pdb
+E:\Cursos\C-Sharp\CollectionQueue\CollectionQueue\obj\Debug\CollectionQueue.csprojAssemblyReference.cache
+E:\Cursos\C-Sharp\CollectionQueue\CollectionQueue\obj\Debug\CollectionQueue.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\CollectionQueue\CollectionQueue\obj\Debug\CollectionQueue.exe
+E:\Cursos\C-Sharp\CollectionQueue\CollectionQueue\obj\Debug\CollectionQueue.pdb

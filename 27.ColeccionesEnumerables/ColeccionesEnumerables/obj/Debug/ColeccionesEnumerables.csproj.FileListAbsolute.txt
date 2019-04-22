@@ -1,0 +1,7 @@
+E:\Cursos\C-Sharp\ColeccionesEnumerables\ColeccionesEnumerables\bin\Debug\ColeccionesEnumerables.exe.config
+E:\Cursos\C-Sharp\ColeccionesEnumerables\ColeccionesEnumerables\bin\Debug\ColeccionesEnumerables.exe
+E:\Cursos\C-Sharp\ColeccionesEnumerables\ColeccionesEnumerables\bin\Debug\ColeccionesEnumerables.pdb
+E:\Cursos\C-Sharp\ColeccionesEnumerables\ColeccionesEnumerables\obj\Debug\ColeccionesEnumerables.csprojAssemblyReference.cache
+E:\Cursos\C-Sharp\ColeccionesEnumerables\ColeccionesEnumerables\obj\Debug\ColeccionesEnumerables.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\ColeccionesEnumerables\ColeccionesEnumerables\obj\Debug\ColeccionesEnumerables.exe
+E:\Cursos\C-Sharp\ColeccionesEnumerables\ColeccionesEnumerables\obj\Debug\ColeccionesEnumerables.pdb

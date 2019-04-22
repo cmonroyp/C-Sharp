@@ -1,0 +1,7 @@
+E:\Cursos\C-Sharp\AdministracionRecursos\AdministracionRecursos\bin\Debug\AdministracionRecursos.exe.config
+E:\Cursos\C-Sharp\AdministracionRecursos\AdministracionRecursos\bin\Debug\AdministracionRecursos.exe
+E:\Cursos\C-Sharp\AdministracionRecursos\AdministracionRecursos\bin\Debug\AdministracionRecursos.pdb
+E:\Cursos\C-Sharp\AdministracionRecursos\AdministracionRecursos\obj\Debug\AdministracionRecursos.csprojAssemblyReference.cache
+E:\Cursos\C-Sharp\AdministracionRecursos\AdministracionRecursos\obj\Debug\AdministracionRecursos.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\AdministracionRecursos\AdministracionRecursos\obj\Debug\AdministracionRecursos.exe
+E:\Cursos\C-Sharp\AdministracionRecursos\AdministracionRecursos\obj\Debug\AdministracionRecursos.pdb

@@ -1,0 +1,7 @@
+E:\Cursos\C-Sharp\ExpresionesLambda\ExpresionesLambda\bin\Debug\ExpresionesLambda.exe.config
+E:\Cursos\C-Sharp\ExpresionesLambda\ExpresionesLambda\bin\Debug\ExpresionesLambda.exe
+E:\Cursos\C-Sharp\ExpresionesLambda\ExpresionesLambda\bin\Debug\ExpresionesLambda.pdb
+E:\Cursos\C-Sharp\ExpresionesLambda\ExpresionesLambda\obj\Debug\ExpresionesLambda.csprojAssemblyReference.cache
+E:\Cursos\C-Sharp\ExpresionesLambda\ExpresionesLambda\obj\Debug\ExpresionesLambda.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\ExpresionesLambda\ExpresionesLambda\obj\Debug\ExpresionesLambda.exe
+E:\Cursos\C-Sharp\ExpresionesLambda\ExpresionesLambda\obj\Debug\ExpresionesLambda.pdb

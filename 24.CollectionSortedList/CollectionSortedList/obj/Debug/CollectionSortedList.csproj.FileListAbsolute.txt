@@ -1,0 +1,6 @@
+E:\Cursos\C-Sharp\CollectionSortedList\CollectionSortedList\bin\Debug\CollectionSortedList.exe.config
+E:\Cursos\C-Sharp\CollectionSortedList\CollectionSortedList\bin\Debug\CollectionSortedList.exe
+E:\Cursos\C-Sharp\CollectionSortedList\CollectionSortedList\bin\Debug\CollectionSortedList.pdb
+E:\Cursos\C-Sharp\CollectionSortedList\CollectionSortedList\obj\Debug\CollectionSortedList.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\CollectionSortedList\CollectionSortedList\obj\Debug\CollectionSortedList.exe
+E:\Cursos\C-Sharp\CollectionSortedList\CollectionSortedList\obj\Debug\CollectionSortedList.pdb

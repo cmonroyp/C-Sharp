@@ -1,0 +1,7 @@
+E:\Cursos\C-Sharp\LinQ\LinQ\bin\Debug\LinQ.exe.config
+E:\Cursos\C-Sharp\LinQ\LinQ\bin\Debug\LinQ.exe
+E:\Cursos\C-Sharp\LinQ\LinQ\bin\Debug\LinQ.pdb
+E:\Cursos\C-Sharp\LinQ\LinQ\obj\Debug\LinQ.csprojAssemblyReference.cache
+E:\Cursos\C-Sharp\LinQ\LinQ\obj\Debug\LinQ.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\LinQ\LinQ\obj\Debug\LinQ.exe
+E:\Cursos\C-Sharp\LinQ\LinQ\obj\Debug\LinQ.pdb

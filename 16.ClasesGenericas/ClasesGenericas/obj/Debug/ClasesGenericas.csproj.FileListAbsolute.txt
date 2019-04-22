@@ -1,0 +1,7 @@
+E:\Cursos\C-Sharp\ClasesGenericas\ClasesGenericas\bin\Debug\ClasesGenericas.exe.config
+E:\Cursos\C-Sharp\ClasesGenericas\ClasesGenericas\bin\Debug\ClasesGenericas.exe
+E:\Cursos\C-Sharp\ClasesGenericas\ClasesGenericas\bin\Debug\ClasesGenericas.pdb
+E:\Cursos\C-Sharp\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.csprojAssemblyReference.cache
+E:\Cursos\C-Sharp\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.exe
+E:\Cursos\C-Sharp\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.pdb

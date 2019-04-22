@@ -1,0 +1,7 @@
+E:\Cursos\C-Sharp\Propiedades\Propiedades\bin\Debug\Propiedades.exe.config
+E:\Cursos\C-Sharp\Propiedades\Propiedades\bin\Debug\Propiedades.exe
+E:\Cursos\C-Sharp\Propiedades\Propiedades\bin\Debug\Propiedades.pdb
+E:\Cursos\C-Sharp\Propiedades\Propiedades\obj\Debug\Propiedades.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\Propiedades\Propiedades\obj\Debug\Propiedades.exe
+E:\Cursos\C-Sharp\Propiedades\Propiedades\obj\Debug\Propiedades.pdb
+E:\Cursos\C-Sharp\Propiedades\Propiedades\obj\Debug\Propiedades.csprojAssemblyReference.cache

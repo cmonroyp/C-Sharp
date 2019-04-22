@@ -1,0 +1,7 @@
+E:\Cursos\C-Sharp\DelegadosEventos\DelegadosEventos\bin\Debug\DelegadosEventos.exe.config
+E:\Cursos\C-Sharp\DelegadosEventos\DelegadosEventos\bin\Debug\DelegadosEventos.exe
+E:\Cursos\C-Sharp\DelegadosEventos\DelegadosEventos\bin\Debug\DelegadosEventos.pdb
+E:\Cursos\C-Sharp\DelegadosEventos\DelegadosEventos\obj\Debug\DelegadosEventos.csprojAssemblyReference.cache
+E:\Cursos\C-Sharp\DelegadosEventos\DelegadosEventos\obj\Debug\DelegadosEventos.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\DelegadosEventos\DelegadosEventos\obj\Debug\DelegadosEventos.exe
+E:\Cursos\C-Sharp\DelegadosEventos\DelegadosEventos\obj\Debug\DelegadosEventos.pdb

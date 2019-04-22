@@ -1,0 +1,6 @@
+E:\Cursos\C-Sharp\CollectionLinkedList\CollectionLinkedList\bin\Debug\CollectionLinkedList.exe.config
+E:\Cursos\C-Sharp\CollectionLinkedList\CollectionLinkedList\bin\Debug\CollectionLinkedList.exe
+E:\Cursos\C-Sharp\CollectionLinkedList\CollectionLinkedList\bin\Debug\CollectionLinkedList.pdb
+E:\Cursos\C-Sharp\CollectionLinkedList\CollectionLinkedList\obj\Debug\CollectionLinkedList.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\CollectionLinkedList\CollectionLinkedList\obj\Debug\CollectionLinkedList.exe
+E:\Cursos\C-Sharp\CollectionLinkedList\CollectionLinkedList\obj\Debug\CollectionLinkedList.pdb

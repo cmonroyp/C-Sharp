@@ -1,0 +1,6 @@
+E:\Cursos\C-Sharp\InicializandoColecciones\InicializandoColecciones\bin\Debug\InicializandoColecciones.exe.config
+E:\Cursos\C-Sharp\InicializandoColecciones\InicializandoColecciones\bin\Debug\InicializandoColecciones.exe
+E:\Cursos\C-Sharp\InicializandoColecciones\InicializandoColecciones\bin\Debug\InicializandoColecciones.pdb
+E:\Cursos\C-Sharp\InicializandoColecciones\InicializandoColecciones\obj\Debug\InicializandoColecciones.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\InicializandoColecciones\InicializandoColecciones\obj\Debug\InicializandoColecciones.exe
+E:\Cursos\C-Sharp\InicializandoColecciones\InicializandoColecciones\obj\Debug\InicializandoColecciones.pdb

@@ -1,0 +1,7 @@
+E:\Cursos\C-Sharp\MetodosDeExtension\MetodosDeExtension\bin\Debug\MetodosDeExtension.exe.config
+E:\Cursos\C-Sharp\MetodosDeExtension\MetodosDeExtension\bin\Debug\MetodosDeExtension.exe
+E:\Cursos\C-Sharp\MetodosDeExtension\MetodosDeExtension\bin\Debug\MetodosDeExtension.pdb
+E:\Cursos\C-Sharp\MetodosDeExtension\MetodosDeExtension\obj\Debug\MetodosDeExtension.csprojAssemblyReference.cache
+E:\Cursos\C-Sharp\MetodosDeExtension\MetodosDeExtension\obj\Debug\MetodosDeExtension.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\MetodosDeExtension\MetodosDeExtension\obj\Debug\MetodosDeExtension.exe
+E:\Cursos\C-Sharp\MetodosDeExtension\MetodosDeExtension\obj\Debug\MetodosDeExtension.pdb

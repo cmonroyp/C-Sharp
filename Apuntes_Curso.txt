@@ -50,3 +50,4 @@ using: controla el ciclo de vida de nuestros recursos
 propiedad: es una mezcla de un campo y un metodo, esta encapsula un unico valor en una clase
 indexador: encapsula un conjunto de valores
 delegado: es una referencia a un metodo
+LinQ: La coleccion donde se encuentran los diferentes objetos debe ser IEnumerable

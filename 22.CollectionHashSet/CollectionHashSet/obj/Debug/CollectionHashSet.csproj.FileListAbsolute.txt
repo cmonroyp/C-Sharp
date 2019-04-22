@@ -1,0 +1,7 @@
+E:\Cursos\C-Sharp\CollectionHashSet\CollectionHashSet\bin\Debug\CollectionHashSet.exe.config
+E:\Cursos\C-Sharp\CollectionHashSet\CollectionHashSet\bin\Debug\CollectionHashSet.exe
+E:\Cursos\C-Sharp\CollectionHashSet\CollectionHashSet\bin\Debug\CollectionHashSet.pdb
+E:\Cursos\C-Sharp\CollectionHashSet\CollectionHashSet\obj\Debug\CollectionHashSet.csprojAssemblyReference.cache
+E:\Cursos\C-Sharp\CollectionHashSet\CollectionHashSet\obj\Debug\CollectionHashSet.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\CollectionHashSet\CollectionHashSet\obj\Debug\CollectionHashSet.exe
+E:\Cursos\C-Sharp\CollectionHashSet\CollectionHashSet\obj\Debug\CollectionHashSet.pdb

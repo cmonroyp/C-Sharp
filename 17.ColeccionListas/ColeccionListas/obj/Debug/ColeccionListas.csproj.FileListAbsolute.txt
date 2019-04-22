@@ -1,0 +1,7 @@
+E:\Cursos\C-Sharp\ColeccionListas\ColeccionListas\bin\Debug\ColeccionListas.exe.config
+E:\Cursos\C-Sharp\ColeccionListas\ColeccionListas\bin\Debug\ColeccionListas.exe
+E:\Cursos\C-Sharp\ColeccionListas\ColeccionListas\bin\Debug\ColeccionListas.pdb
+E:\Cursos\C-Sharp\ColeccionListas\ColeccionListas\obj\Debug\ColeccionListas.csprojAssemblyReference.cache
+E:\Cursos\C-Sharp\ColeccionListas\ColeccionListas\obj\Debug\ColeccionListas.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\ColeccionListas\ColeccionListas\obj\Debug\ColeccionListas.exe
+E:\Cursos\C-Sharp\ColeccionListas\ColeccionListas\obj\Debug\ColeccionListas.pdb

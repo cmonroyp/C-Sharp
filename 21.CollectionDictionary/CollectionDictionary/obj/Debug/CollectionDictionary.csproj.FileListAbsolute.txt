@@ -1,0 +1,7 @@
+E:\Cursos\C-Sharp\CollectionDictionary\CollectionDictionary\bin\Debug\CollectionDictionary.exe.config
+E:\Cursos\C-Sharp\CollectionDictionary\CollectionDictionary\bin\Debug\CollectionDictionary.exe
+E:\Cursos\C-Sharp\CollectionDictionary\CollectionDictionary\bin\Debug\CollectionDictionary.pdb
+E:\Cursos\C-Sharp\CollectionDictionary\CollectionDictionary\obj\Debug\CollectionDictionary.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\CollectionDictionary\CollectionDictionary\obj\Debug\CollectionDictionary.exe
+E:\Cursos\C-Sharp\CollectionDictionary\CollectionDictionary\obj\Debug\CollectionDictionary.pdb
+E:\Cursos\C-Sharp\CollectionDictionary\CollectionDictionary\obj\Debug\CollectionDictionary.csprojAssemblyReference.cache

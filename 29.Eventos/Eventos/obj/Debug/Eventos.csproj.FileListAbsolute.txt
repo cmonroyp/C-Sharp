@@ -1,0 +1,7 @@
+E:\Cursos\C-Sharp\Eventos\Eventos\bin\Debug\Eventos.exe.config
+E:\Cursos\C-Sharp\Eventos\Eventos\bin\Debug\Eventos.exe
+E:\Cursos\C-Sharp\Eventos\Eventos\bin\Debug\Eventos.pdb
+E:\Cursos\C-Sharp\Eventos\Eventos\obj\Debug\Eventos.csprojAssemblyReference.cache
+E:\Cursos\C-Sharp\Eventos\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\Eventos\Eventos\obj\Debug\Eventos.exe
+E:\Cursos\C-Sharp\Eventos\Eventos\obj\Debug\Eventos.pdb

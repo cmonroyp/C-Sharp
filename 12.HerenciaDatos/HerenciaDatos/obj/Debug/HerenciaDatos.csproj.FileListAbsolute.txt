@@ -1,0 +1,7 @@
+E:\Cursos\C-Sharp\HerenciaDatos\HerenciaDatos\bin\Debug\HerenciaDatos.exe.config
+E:\Cursos\C-Sharp\HerenciaDatos\HerenciaDatos\bin\Debug\HerenciaDatos.exe
+E:\Cursos\C-Sharp\HerenciaDatos\HerenciaDatos\bin\Debug\HerenciaDatos.pdb
+E:\Cursos\C-Sharp\HerenciaDatos\HerenciaDatos\obj\Debug\HerenciaDatos.csprojAssemblyReference.cache
+E:\Cursos\C-Sharp\HerenciaDatos\HerenciaDatos\obj\Debug\HerenciaDatos.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\HerenciaDatos\HerenciaDatos\obj\Debug\HerenciaDatos.exe
+E:\Cursos\C-Sharp\HerenciaDatos\HerenciaDatos\obj\Debug\HerenciaDatos.pdb

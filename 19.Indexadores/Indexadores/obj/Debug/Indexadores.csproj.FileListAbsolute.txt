@@ -1,0 +1,7 @@
+E:\Cursos\C-Sharp\Indexadores\Indexadores\bin\Debug\Indexadores.exe.config
+E:\Cursos\C-Sharp\Indexadores\Indexadores\bin\Debug\Indexadores.exe
+E:\Cursos\C-Sharp\Indexadores\Indexadores\bin\Debug\Indexadores.pdb
+E:\Cursos\C-Sharp\Indexadores\Indexadores\obj\Debug\Indexadores.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\Indexadores\Indexadores\obj\Debug\Indexadores.exe
+E:\Cursos\C-Sharp\Indexadores\Indexadores\obj\Debug\Indexadores.pdb
+E:\Cursos\C-Sharp\Indexadores\Indexadores\obj\Debug\Indexadores.csprojAssemblyReference.cache
