@@ -1,0 +1,10 @@
+E:\Cursos\C-Sharp\12.3_Herencia_Polimorfismo\12.3_Herencia_Polimorfismo\bin\Debug\netcoreapp2.2\12.3_Herencia_Polimorfismo.deps.json
+E:\Cursos\C-Sharp\12.3_Herencia_Polimorfismo\12.3_Herencia_Polimorfismo\bin\Debug\netcoreapp2.2\12.3_Herencia_Polimorfismo.runtimeconfig.json
+E:\Cursos\C-Sharp\12.3_Herencia_Polimorfismo\12.3_Herencia_Polimorfismo\bin\Debug\netcoreapp2.2\12.3_Herencia_Polimorfismo.runtimeconfig.dev.json
+E:\Cursos\C-Sharp\12.3_Herencia_Polimorfismo\12.3_Herencia_Polimorfismo\bin\Debug\netcoreapp2.2\12.3_Herencia_Polimorfismo.dll
+E:\Cursos\C-Sharp\12.3_Herencia_Polimorfismo\12.3_Herencia_Polimorfismo\bin\Debug\netcoreapp2.2\12.3_Herencia_Polimorfismo.pdb
+E:\Cursos\C-Sharp\12.3_Herencia_Polimorfismo\12.3_Herencia_Polimorfismo\obj\Debug\netcoreapp2.2\12.3_Herencia_Polimorfismo.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\12.3_Herencia_Polimorfismo\12.3_Herencia_Polimorfismo\obj\Debug\netcoreapp2.2\12.3_Herencia_Polimorfismo.AssemblyInfoInputs.cache
+E:\Cursos\C-Sharp\12.3_Herencia_Polimorfismo\12.3_Herencia_Polimorfismo\obj\Debug\netcoreapp2.2\12.3_Herencia_Polimorfismo.AssemblyInfo.cs
+E:\Cursos\C-Sharp\12.3_Herencia_Polimorfismo\12.3_Herencia_Polimorfismo\obj\Debug\netcoreapp2.2\12.3_Herencia_Polimorfismo.dll
+E:\Cursos\C-Sharp\12.3_Herencia_Polimorfismo\12.3_Herencia_Polimorfismo\obj\Debug\netcoreapp2.2\12.3_Herencia_Polimorfismo.pdb

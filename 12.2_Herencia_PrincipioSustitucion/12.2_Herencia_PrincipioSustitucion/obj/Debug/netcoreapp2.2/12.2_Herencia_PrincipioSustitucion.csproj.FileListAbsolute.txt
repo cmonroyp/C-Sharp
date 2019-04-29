@@ -1,0 +1,11 @@
+E:\Cursos\C-Sharp\12.2_Herencia_PrincipioSustitucion\12.2_Herencia_PrincipioSustitucion\bin\Debug\netcoreapp2.2\12.2_Herencia_PrincipioSustitucion.deps.json
+E:\Cursos\C-Sharp\12.2_Herencia_PrincipioSustitucion\12.2_Herencia_PrincipioSustitucion\bin\Debug\netcoreapp2.2\12.2_Herencia_PrincipioSustitucion.runtimeconfig.json
+E:\Cursos\C-Sharp\12.2_Herencia_PrincipioSustitucion\12.2_Herencia_PrincipioSustitucion\bin\Debug\netcoreapp2.2\12.2_Herencia_PrincipioSustitucion.runtimeconfig.dev.json
+E:\Cursos\C-Sharp\12.2_Herencia_PrincipioSustitucion\12.2_Herencia_PrincipioSustitucion\bin\Debug\netcoreapp2.2\12.2_Herencia_PrincipioSustitucion.dll
+E:\Cursos\C-Sharp\12.2_Herencia_PrincipioSustitucion\12.2_Herencia_PrincipioSustitucion\bin\Debug\netcoreapp2.2\12.2_Herencia_PrincipioSustitucion.pdb
+E:\Cursos\C-Sharp\12.2_Herencia_PrincipioSustitucion\12.2_Herencia_PrincipioSustitucion\obj\Debug\netcoreapp2.2\12.2_Herencia_PrincipioSustitucion.csprojAssemblyReference.cache
+E:\Cursos\C-Sharp\12.2_Herencia_PrincipioSustitucion\12.2_Herencia_PrincipioSustitucion\obj\Debug\netcoreapp2.2\12.2_Herencia_PrincipioSustitucion.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\12.2_Herencia_PrincipioSustitucion\12.2_Herencia_PrincipioSustitucion\obj\Debug\netcoreapp2.2\12.2_Herencia_PrincipioSustitucion.AssemblyInfoInputs.cache
+E:\Cursos\C-Sharp\12.2_Herencia_PrincipioSustitucion\12.2_Herencia_PrincipioSustitucion\obj\Debug\netcoreapp2.2\12.2_Herencia_PrincipioSustitucion.AssemblyInfo.cs
+E:\Cursos\C-Sharp\12.2_Herencia_PrincipioSustitucion\12.2_Herencia_PrincipioSustitucion\obj\Debug\netcoreapp2.2\12.2_Herencia_PrincipioSustitucion.dll
+E:\Cursos\C-Sharp\12.2_Herencia_PrincipioSustitucion\12.2_Herencia_PrincipioSustitucion\obj\Debug\netcoreapp2.2\12.2_Herencia_PrincipioSustitucion.pdb

@@ -1,0 +1,11 @@
+E:\Cursos\Curso2C#\12.1_Herencia\12.1_Herencia\bin\Debug\netcoreapp2.2\12.1_Herencia.deps.json
+E:\Cursos\Curso2C#\12.1_Herencia\12.1_Herencia\bin\Debug\netcoreapp2.2\12.1_Herencia.runtimeconfig.json
+E:\Cursos\Curso2C#\12.1_Herencia\12.1_Herencia\bin\Debug\netcoreapp2.2\12.1_Herencia.runtimeconfig.dev.json
+E:\Cursos\Curso2C#\12.1_Herencia\12.1_Herencia\bin\Debug\netcoreapp2.2\12.1_Herencia.dll
+E:\Cursos\Curso2C#\12.1_Herencia\12.1_Herencia\bin\Debug\netcoreapp2.2\12.1_Herencia.pdb
+E:\Cursos\Curso2C#\12.1_Herencia\12.1_Herencia\obj\Debug\netcoreapp2.2\12.1_Herencia.csprojAssemblyReference.cache
+E:\Cursos\Curso2C#\12.1_Herencia\12.1_Herencia\obj\Debug\netcoreapp2.2\12.1_Herencia.csproj.CoreCompileInputs.cache
+E:\Cursos\Curso2C#\12.1_Herencia\12.1_Herencia\obj\Debug\netcoreapp2.2\12.1_Herencia.AssemblyInfoInputs.cache
+E:\Cursos\Curso2C#\12.1_Herencia\12.1_Herencia\obj\Debug\netcoreapp2.2\12.1_Herencia.AssemblyInfo.cs
+E:\Cursos\Curso2C#\12.1_Herencia\12.1_Herencia\obj\Debug\netcoreapp2.2\12.1_Herencia.dll
+E:\Cursos\Curso2C#\12.1_Herencia\12.1_Herencia\obj\Debug\netcoreapp2.2\12.1_Herencia.pdb

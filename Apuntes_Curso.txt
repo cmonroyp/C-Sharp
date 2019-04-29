@@ -51,3 +51,13 @@ propiedad: es una mezcla de un campo y un metodo, esta encapsula un unico valor 
 indexador: encapsula un conjunto de valores
 delegado: es una referencia a un metodo
 LinQ: La coleccion donde se encuentran los diferentes objetos debe ser IEnumerable
+
+Modificadores de acceso
+Public: Accesible desde cualquier parte
+Private: Accesible desde la propia clase
+Protected: Accesible desde la clase derivada
+Internal: Accesible desde el mismo emsamblado
+Protedted Internal: Accesible desde la misma clase o clase derivada o del mismo emsamblado
+por Defecto: accesible desde el mismo paquete
+partial: permite dividir una clase principal en varios partes o modulos.
+static: comparte la informacion entre todas las intancias de la clase ejemplo static int cotador = 7, pertenece unicamente a la clase poseedora donde se creo
