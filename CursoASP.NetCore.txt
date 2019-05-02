@@ -1,0 +1,2 @@
+Add-Migration Initial  => permite crear la migracion de los cambios de entity frameowrk
+Update-database => crea la base de datos local

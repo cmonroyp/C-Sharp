@@ -1,0 +1,12 @@
+WriteToFileHostedService: Process Started
+WriteToFileHostedService: Haciendo un trabajo a: 05/01/2019 07:57:15
+WriteToFileHostedService: Haciendo un trabajo a: 05/01/2019 07:57:20
+WriteToFileHostedService: Haciendo un trabajo a: 05/01/2019 07:57:25
+WriteToFileHostedService: Haciendo un trabajo a: 05/01/2019 07:57:30
+WriteToFileHostedService: Haciendo un trabajo a: 05/01/2019 07:57:35
+WriteToFileHostedService: Haciendo un trabajo a: 05/01/2019 07:57:40
+WriteToFileHostedService: Haciendo un trabajo a: 05/01/2019 07:57:45
+WriteToFileHostedService: Haciendo un trabajo a: 05/01/2019 07:57:50
+WriteToFileHostedService: Haciendo un trabajo a: 05/01/2019 07:57:55
+WriteToFileHostedService: Haciendo un trabajo a: 05/01/2019 07:58:00
+WriteToFileHostedService: Process Stopped

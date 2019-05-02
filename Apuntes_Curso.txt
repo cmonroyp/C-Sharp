@@ -6,6 +6,7 @@ Subir un nuevo archivo a Github
 
 
 * El metodo Main siempre debe pertenecer a una clase.
+Genericos <T>
 
 Tipos de datos:
 - Variable: almacena informacion en un espacio de memoria

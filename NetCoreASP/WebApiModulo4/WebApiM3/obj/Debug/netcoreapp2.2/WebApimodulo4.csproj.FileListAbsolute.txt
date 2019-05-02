@@ -1,0 +1,14 @@
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo4\WebApiM3\bin\Debug\netcoreapp2.2\WebApimodulo4.deps.json
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo4\WebApiM3\bin\Debug\netcoreapp2.2\WebApimodulo4.runtimeconfig.json
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo4\WebApiM3\bin\Debug\netcoreapp2.2\WebApimodulo4.runtimeconfig.dev.json
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo4\WebApiM3\bin\Debug\netcoreapp2.2\WebApimodulo4.dll
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo4\WebApiM3\bin\Debug\netcoreapp2.2\WebApimodulo4.pdb
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo4\WebApiM3\obj\Debug\netcoreapp2.2\WebApimodulo4.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo4\WebApiM3\obj\Debug\netcoreapp2.2\WebApimodulo4.RazorAssemblyInfo.cache
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo4\WebApiM3\obj\Debug\netcoreapp2.2\WebApimodulo4.RazorAssemblyInfo.cs
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo4\WebApiM3\obj\Debug\netcoreapp2.2\WebApimodulo4.AssemblyInfoInputs.cache
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo4\WebApiM3\obj\Debug\netcoreapp2.2\WebApimodulo4.AssemblyInfo.cs
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo4\WebApiM3\obj\Debug\netcoreapp2.2\WebApimodulo4.RazorTargetAssemblyInfo.cache
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo4\WebApiM3\obj\Debug\netcoreapp2.2\WebApimodulo4.dll
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo4\WebApiM3\obj\Debug\netcoreapp2.2\WebApimodulo4.pdb
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo4\WebApiM3\obj\Debug\netcoreapp2.2\WebApimodulo4.csprojAssemblyReference.cache
