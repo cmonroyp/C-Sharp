@@ -1,0 +1,19 @@
+sobre la raiz del proyecto ejecutar:
+npm init -y
+
+despues de ejecutado el sgdo comando:
+npm install @aspnet/signalr
+
+se busca el archivo in staldo en la ruta ejemplo E:\Cursos\C-Sharp\NetCoreASP\SignalR\SignalR\node_modules\@aspnet\signalr\dist\browser
+
+y lo copiamos en la ruta:
+E:\Cursos\C-Sharp\NetCoreASP\SignalR\SignalR\wwwroot\lib\SignalR
+
+ejemplo
+https://www.c-sharpcorner.com/article/implementation-of-signalr-with-net-core/
+
+Habilitar BD
+select name, is_broker_enabled from sys.databases
+
+alter database SignalR
+set ENABLE_broker with rollback IMMEDIATE

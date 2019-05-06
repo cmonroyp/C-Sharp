@@ -1,0 +1,28 @@
+E:\Cursos\Curso2C#\CursoRESTfulAPIsASPNETCore-master\Modulo 5\WebApiModulo5\WebApiModulo5\bin\Debug\netcoreapp2.2\WebApiModulo5.deps.json
+E:\Cursos\Curso2C#\CursoRESTfulAPIsASPNETCore-master\Modulo 5\WebApiModulo5\WebApiModulo5\bin\Debug\netcoreapp2.2\WebApiModulo5.runtimeconfig.json
+E:\Cursos\Curso2C#\CursoRESTfulAPIsASPNETCore-master\Modulo 5\WebApiModulo5\WebApiModulo5\bin\Debug\netcoreapp2.2\WebApiModulo5.runtimeconfig.dev.json
+E:\Cursos\Curso2C#\CursoRESTfulAPIsASPNETCore-master\Modulo 5\WebApiModulo5\WebApiModulo5\bin\Debug\netcoreapp2.2\WebApiModulo5.dll
+E:\Cursos\Curso2C#\CursoRESTfulAPIsASPNETCore-master\Modulo 5\WebApiModulo5\WebApiModulo5\bin\Debug\netcoreapp2.2\WebApiModulo5.pdb
+E:\Cursos\Curso2C#\CursoRESTfulAPIsASPNETCore-master\Modulo 5\WebApiModulo5\WebApiModulo5\obj\Debug\netcoreapp2.2\WebApiModulo5.csprojAssemblyReference.cache
+E:\Cursos\Curso2C#\CursoRESTfulAPIsASPNETCore-master\Modulo 5\WebApiModulo5\WebApiModulo5\obj\Debug\netcoreapp2.2\WebApiModulo5.csproj.CoreCompileInputs.cache
+E:\Cursos\Curso2C#\CursoRESTfulAPIsASPNETCore-master\Modulo 5\WebApiModulo5\WebApiModulo5\obj\Debug\netcoreapp2.2\WebApiModulo5.RazorAssemblyInfo.cache
+E:\Cursos\Curso2C#\CursoRESTfulAPIsASPNETCore-master\Modulo 5\WebApiModulo5\WebApiModulo5\obj\Debug\netcoreapp2.2\WebApiModulo5.RazorAssemblyInfo.cs
+E:\Cursos\Curso2C#\CursoRESTfulAPIsASPNETCore-master\Modulo 5\WebApiModulo5\WebApiModulo5\obj\Debug\netcoreapp2.2\WebApiModulo5.AssemblyInfoInputs.cache
+E:\Cursos\Curso2C#\CursoRESTfulAPIsASPNETCore-master\Modulo 5\WebApiModulo5\WebApiModulo5\obj\Debug\netcoreapp2.2\WebApiModulo5.AssemblyInfo.cs
+E:\Cursos\Curso2C#\CursoRESTfulAPIsASPNETCore-master\Modulo 5\WebApiModulo5\WebApiModulo5\obj\Debug\netcoreapp2.2\WebApiModulo5.RazorTargetAssemblyInfo.cache
+E:\Cursos\Curso2C#\CursoRESTfulAPIsASPNETCore-master\Modulo 5\WebApiModulo5\WebApiModulo5\obj\Debug\netcoreapp2.2\WebApiModulo5.dll
+E:\Cursos\Curso2C#\CursoRESTfulAPIsASPNETCore-master\Modulo 5\WebApiModulo5\WebApiModulo5\obj\Debug\netcoreapp2.2\WebApiModulo5.pdb
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo5\WebApiModulo5\bin\Debug\netcoreapp2.2\WebApiModulo5.deps.json
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo5\WebApiModulo5\bin\Debug\netcoreapp2.2\WebApiModulo5.runtimeconfig.json
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo5\WebApiModulo5\bin\Debug\netcoreapp2.2\WebApiModulo5.runtimeconfig.dev.json
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo5\WebApiModulo5\bin\Debug\netcoreapp2.2\WebApiModulo5.dll
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo5\WebApiModulo5\bin\Debug\netcoreapp2.2\WebApiModulo5.pdb
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo5\WebApiModulo5\obj\Debug\netcoreapp2.2\WebApiModulo5.csprojAssemblyReference.cache
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo5\WebApiModulo5\obj\Debug\netcoreapp2.2\WebApiModulo5.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo5\WebApiModulo5\obj\Debug\netcoreapp2.2\WebApiModulo5.RazorAssemblyInfo.cache
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo5\WebApiModulo5\obj\Debug\netcoreapp2.2\WebApiModulo5.RazorAssemblyInfo.cs
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo5\WebApiModulo5\obj\Debug\netcoreapp2.2\WebApiModulo5.AssemblyInfoInputs.cache
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo5\WebApiModulo5\obj\Debug\netcoreapp2.2\WebApiModulo5.AssemblyInfo.cs
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo5\WebApiModulo5\obj\Debug\netcoreapp2.2\WebApiModulo5.RazorTargetAssemblyInfo.cache
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo5\WebApiModulo5\obj\Debug\netcoreapp2.2\WebApiModulo5.dll
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo5\WebApiModulo5\obj\Debug\netcoreapp2.2\WebApiModulo5.pdb

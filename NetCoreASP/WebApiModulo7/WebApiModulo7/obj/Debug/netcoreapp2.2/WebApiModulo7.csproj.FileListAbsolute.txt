@@ -1,0 +1,14 @@
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo7\WebApiModulo7\bin\Debug\netcoreapp2.2\WebApiModulo7.deps.json
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo7\WebApiModulo7\bin\Debug\netcoreapp2.2\WebApiModulo7.runtimeconfig.json
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo7\WebApiModulo7\bin\Debug\netcoreapp2.2\WebApiModulo7.runtimeconfig.dev.json
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo7\WebApiModulo7\bin\Debug\netcoreapp2.2\WebApiModulo7.dll
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo7\WebApiModulo7\bin\Debug\netcoreapp2.2\WebApiModulo7.pdb
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo7\WebApiModulo7\obj\Debug\netcoreapp2.2\WebApiModulo7.csprojAssemblyReference.cache
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo7\WebApiModulo7\obj\Debug\netcoreapp2.2\WebApiModulo7.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo7\WebApiModulo7\obj\Debug\netcoreapp2.2\WebApiModulo7.RazorAssemblyInfo.cache
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo7\WebApiModulo7\obj\Debug\netcoreapp2.2\WebApiModulo7.RazorAssemblyInfo.cs
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo7\WebApiModulo7\obj\Debug\netcoreapp2.2\WebApiModulo7.AssemblyInfoInputs.cache
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo7\WebApiModulo7\obj\Debug\netcoreapp2.2\WebApiModulo7.AssemblyInfo.cs
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo7\WebApiModulo7\obj\Debug\netcoreapp2.2\WebApiModulo7.RazorTargetAssemblyInfo.cache
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo7\WebApiModulo7\obj\Debug\netcoreapp2.2\WebApiModulo7.dll
+E:\Cursos\C-Sharp\NetCoreASP\WebApiModulo7\WebApiModulo7\obj\Debug\netcoreapp2.2\WebApiModulo7.pdb
