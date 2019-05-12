@@ -14,12 +14,16 @@ namespace WebApiModulo7.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
+    // [EnableCors("PermitirApiRequest")]
+    //[Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
     public class ValuesController : ControllerBase
     {
+
         private readonly IDataProtector _protector;
+        //servio para hash
         private readonly HashService _hashService;
 
+        //encriptar valores
         public ValuesController(IDataProtectionProvider protectionProvider, HashService hashService)
         {
             _protector = protectionProvider.CreateProtector("valor_unico_y_quizas_secreto");
@@ -37,7 +41,7 @@ namespace WebApiModulo7.Controllers
         [HttpGet("hash")]
         public ActionResult GetHash()
         {
-            string textoPlano = "Felipe Gavilán";
+            string textoPlano = "Carlos Mario Monroy";
             var hashResult1 = _hashService.Hash(textoPlano).Hash;
             var hashResult2 = _hashService.Hash(textoPlano).Hash;
             return Ok(new { textoPlano, hashResult1, hashResult2 });
@@ -47,7 +51,15 @@ namespace WebApiModulo7.Controllers
         [HttpGet("{id}")]
         public ActionResult<string> Get(int id)
         {
-            string textoPlano = "Felipe Gavilán";
+            //var protectorLimitadoPorTiempo = _protector.ToTimeLimitedDataProtector();
+
+            //string textoPlano = "Carlos Mario Monroy";
+            //string textoCifrado = protectorLimitadoPorTiempo.Protect(textoPlano, TimeSpan.FromSeconds(5));
+            //Thread.Sleep(6000);
+            //string textoDesencriptado = protectorLimitadoPorTiempo.Unprotect(textoCifrado);
+            //return Ok(new { textoPlano, textoCifrado, textoDesencriptado });
+
+            string textoPlano = "Carlos Mario Monroy";
             string textoCifrado = _protector.Protect(textoPlano);
             string textoDesencriptado = _protector.Unprotect(textoCifrado);
             return Ok(new { textoPlano, textoCifrado, textoDesencriptado });
@@ -56,7 +68,7 @@ namespace WebApiModulo7.Controllers
         private void EjemploDeEncriptacionLimitadaPorTiempo()
         {
             var protectorLimitadoPorTiempo = _protector.ToTimeLimitedDataProtector();
-            string textoPlano = "Felipe Gavilán";
+            string textoPlano = "Carlos Mario Monroy";
             string textoCifrado = protectorLimitadoPorTiempo.Protect(textoPlano, TimeSpan.FromSeconds(5));
             string textoDesencriptado = protectorLimitadoPorTiempo.Unprotect(textoCifrado);
         }

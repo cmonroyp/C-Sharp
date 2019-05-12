@@ -10,6 +10,7 @@ namespace WebApiModulo7.Services
 {
     public class HashService
     {
+        //una Sal es un valor aleatorio que se anexa al texto plano al cual se le applica la funcion hash, la sal se debe guardar en la Bd.
         public HashResult Hash(string input)
         {
             // Genera una sal aleatoria

@@ -38,7 +38,9 @@ namespace WebApiModulo7
                 options.AddPolicy("PermitirApiRequest",
                     builder => builder.WithOrigins("http://www.apirequest.io").WithMethods("GET", "POST").AllowAnyHeader());
             });
+            //configuracion servicio hash
             services.AddScoped<HashService>();
+            //configuracion minima ara encryptacion
             services.AddDataProtection();
 
             //configuracion conexion a la BD

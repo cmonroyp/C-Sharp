@@ -1,0 +1,147 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Cursos\\C-Sharp\\NetCoreASP\\Modulo 9\\WebApiModulo9\\WebApiPruebasDeIntegracion\\WebApiPruebasDeIntegracion.csproj": {}
+  },
+  "projects": {
+    "E:\\Cursos\\C-Sharp\\NetCoreASP\\Modulo 9\\WebApiModulo9\\WebApiModulo9\\WebApiModulo9.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Cursos\\C-Sharp\\NetCoreASP\\Modulo 9\\WebApiModulo9\\WebApiModulo9\\WebApiModulo9.csproj",
+        "projectName": "WebApiModulo9",
+        "projectPath": "E:\\Cursos\\C-Sharp\\NetCoreASP\\Modulo 9\\WebApiModulo9\\WebApiModulo9\\WebApiModulo9.csproj",
+        "packagesPath": "C:\\Users\\PERSONAL\\.nuget\\packages\\",
+        "outputPath": "E:\\Cursos\\C-Sharp\\NetCoreASP\\Modulo 9\\WebApiModulo9\\WebApiModulo9\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PERSONAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\Cursos\\C-Sharp\\NetCoreASP\\Modulo 9\\WebApiModulo9\\WebApiPruebasDeIntegracion\\WebApiPruebasDeIntegracion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Cursos\\C-Sharp\\NetCoreASP\\Modulo 9\\WebApiModulo9\\WebApiPruebasDeIntegracion\\WebApiPruebasDeIntegracion.csproj",
+        "projectName": "WebApiPruebasDeIntegracion",
+        "projectPath": "E:\\Cursos\\C-Sharp\\NetCoreASP\\Modulo 9\\WebApiModulo9\\WebApiPruebasDeIntegracion\\WebApiPruebasDeIntegracion.csproj",
+        "packagesPath": "C:\\Users\\PERSONAL\\.nuget\\packages\\",
+        "outputPath": "E:\\Cursos\\C-Sharp\\NetCoreASP\\Modulo 9\\WebApiModulo9\\WebApiPruebasDeIntegracion\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PERSONAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "E:\\Cursos\\C-Sharp\\NetCoreASP\\Modulo 9\\WebApiModulo9\\WebApiModulo9\\WebApiModulo9.csproj": {
+                "projectPath": "E:\\Cursos\\C-Sharp\\NetCoreASP\\Modulo 9\\WebApiModulo9\\WebApiModulo9\\WebApiModulo9.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiModulo9\bin\Debug\netcoreapp2.2\WebApiModulo9.deps.json
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiModulo9\bin\Debug\netcoreapp2.2\WebApiModulo9.runtimeconfig.json
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiModulo9\bin\Debug\netcoreapp2.2\WebApiModulo9.runtimeconfig.dev.json
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiModulo9\bin\Debug\netcoreapp2.2\WebApiModulo9.dll
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiModulo9\bin\Debug\netcoreapp2.2\WebApiModulo9.pdb
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiModulo9\obj\Debug\netcoreapp2.2\WebApiModulo9.csprojAssemblyReference.cache
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiModulo9\obj\Debug\netcoreapp2.2\WebApiModulo9.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiModulo9\obj\Debug\netcoreapp2.2\WebApiModulo9.RazorAssemblyInfo.cache
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiModulo9\obj\Debug\netcoreapp2.2\WebApiModulo9.RazorAssemblyInfo.cs
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiModulo9\obj\Debug\netcoreapp2.2\WebApiModulo9.AssemblyInfoInputs.cache
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiModulo9\obj\Debug\netcoreapp2.2\WebApiModulo9.AssemblyInfo.cs
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiModulo9\obj\Debug\netcoreapp2.2\WebApiModulo9.RazorTargetAssemblyInfo.cache
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiModulo9\obj\Debug\netcoreapp2.2\WebApiModulo9.dll
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiModulo9\obj\Debug\netcoreapp2.2\WebApiModulo9.pdb

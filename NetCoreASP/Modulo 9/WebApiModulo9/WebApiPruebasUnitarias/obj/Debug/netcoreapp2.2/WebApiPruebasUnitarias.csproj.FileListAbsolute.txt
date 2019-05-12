@@ -1,0 +1,17 @@
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiPruebasUnitarias\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiPruebasUnitarias\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiPruebasUnitarias\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiPruebasUnitarias\bin\Debug\netcoreapp2.2\WebApiPruebasUnitarias.deps.json
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiPruebasUnitarias\bin\Debug\netcoreapp2.2\WebApiPruebasUnitarias.runtimeconfig.json
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiPruebasUnitarias\bin\Debug\netcoreapp2.2\WebApiPruebasUnitarias.runtimeconfig.dev.json
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiPruebasUnitarias\bin\Debug\netcoreapp2.2\WebApiPruebasUnitarias.dll
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiPruebasUnitarias\bin\Debug\netcoreapp2.2\WebApiPruebasUnitarias.pdb
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiPruebasUnitarias\bin\Debug\netcoreapp2.2\WebApiModulo9.dll
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiPruebasUnitarias\bin\Debug\netcoreapp2.2\WebApiModulo9.pdb
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiPruebasUnitarias\obj\Debug\netcoreapp2.2\WebApiPruebasUnitarias.csprojAssemblyReference.cache
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiPruebasUnitarias\obj\Debug\netcoreapp2.2\WebApiPruebasUnitarias.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiPruebasUnitarias\obj\Debug\netcoreapp2.2\WebApiPruebasUnitarias.AssemblyInfoInputs.cache
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiPruebasUnitarias\obj\Debug\netcoreapp2.2\WebApiPruebasUnitarias.AssemblyInfo.cs
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiPruebasUnitarias\obj\Debug\netcoreapp2.2\WebApiPruebasUnitarias.csproj.CopyComplete
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiPruebasUnitarias\obj\Debug\netcoreapp2.2\WebApiPruebasUnitarias.dll
+E:\Cursos\C-Sharp\NetCoreASP\Modulo 9\WebApiModulo9\WebApiPruebasUnitarias\obj\Debug\netcoreapp2.2\WebApiPruebasUnitarias.pdb
