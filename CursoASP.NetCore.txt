@@ -1,2 +1,4 @@
 Add-Migration Initial  => permite crear la migracion de los cambios de entity frameowrk
 Update-database => crea la base de datos local
+Script-Migration => crea un script para rear la BD
+Script-Migration -Idempotent => migra unicamente las talas que no estan creadas y genera el script.

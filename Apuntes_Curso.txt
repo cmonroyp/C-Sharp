@@ -53,6 +53,8 @@ indexador: encapsula un conjunto de valores
 delegado: es una referencia a un metodo
 LinQ: La coleccion donde se encuentran los diferentes objetos debe ser IEnumerable
 
+Mock: es un objeto el cual intenta suplantar una dependencia de una clase
+
 Modificadores de acceso
 Public: Accesible desde cualquier parte
 Private: Accesible desde la propia clase
